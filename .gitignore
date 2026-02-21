@@ -1,0 +1,32 @@
+# Spring Boot
+target/
+.idea/
+.vscode/
+*.iml
+*.class
+*.jar
+*.war
+
+# Maven
+*.pom
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# Logs
+*.log
+logs/
+
+# Local properties
+local.properties
+
+# IDE
+.DS_Store
+.classpath
+.project
+.settings/
